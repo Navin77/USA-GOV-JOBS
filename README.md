@@ -1,15 +1,15 @@
-#American Gov Jobs
+# American Gov Jobs
 A react app to search current job openings in American goverment. It uses the open api provided by search.gov
 
 This project was made with react and redux.
 
 [![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
 
-##Includes
+## Includes
 * React
 * Redux
 * Redux-form
 * enzyme
 
-##Profile
+## Profile
 you can view my portofolio page here https://navin77.github.io/navin/
